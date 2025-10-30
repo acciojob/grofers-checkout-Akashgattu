@@ -17,7 +17,7 @@ labelcell.textContent= "Total Price: ";
 totalcell.textContent=Total;
 newrow.id='ans';
 newrow.append(labelcell,totalcell);
-table.appendChild(newrow);
+table.append(newrow);
 
   
 };
